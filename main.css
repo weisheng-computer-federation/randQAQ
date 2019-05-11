@@ -8,6 +8,8 @@
     border-style: solid;
     text-align: center;
     font-size: 300%;
+    user-select: none;
+    cursor: pointer;
 }
 #number_ {
     margin: 200px auto auto auto;
